@@ -57,6 +57,7 @@ const supportedUtilities = [
 	/^(min-w-|max-w-|min-h-|max-h-)/,
 	// Font size
 	/^text-/,
+	/^placeholder-/,
 	// Font style
 	/^(not-)?italic$/,
 	// Font weight
